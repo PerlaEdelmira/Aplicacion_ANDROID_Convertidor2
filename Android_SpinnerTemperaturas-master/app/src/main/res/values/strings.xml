@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Conversor Temperaturas</string>
+    <string name="txtConvertir">Convertir</string>
+    <string name="txtA">A</string>
+    <string name="txtIgual">son:</string>
+    <string name="txtConversor">Conversor</string>
+
+
+    <string-array name="Convertir">
+        <item>Fahrenheit</item>
+        <item>Celsius</item>
+        <item>Kelvin</item>
+        <item>Rankine</item>
+    </string-array>
+
+
+    <string-array name="ConvertirA">
+        <item>Fahrenheit</item>
+        <item>Celsius</item>
+        <item>Kelvin</item>
+        <item>Rankine</item>
+    </string-array>
+</resources>
